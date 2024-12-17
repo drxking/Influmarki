@@ -1,4 +1,6 @@
-// const lenis = new Lenis();
+// const lenis = new Lenis({
+//   lerp:0.1
+// });
 // // Use requestAnimationFrame to continuously update the scroll
 // function raf(time) {
 //   lenis.raf(time);
@@ -78255,6 +78257,5 @@ Webflow.require("commerce") &&
     siteId: "665dcf7a89531558a6310cb3",
     apiUrl: "https://render.webflow.com",
   });
-
 
 
